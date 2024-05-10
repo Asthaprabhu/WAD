@@ -1,0 +1,7 @@
+mera namm astha prabhu hai 
+mein bahut sundar hu thank you mention not
+1 git init
+
+2 git add .
+
+3.git status
